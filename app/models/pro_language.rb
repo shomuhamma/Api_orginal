@@ -1,0 +1,2 @@
+class ProLanguage < ApplicationRecord
+end
